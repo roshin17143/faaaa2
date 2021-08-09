@@ -64,3 +64,4 @@ eureka.instance.instance-id=${spring.cloud.client.hostname}:${spring.application
 
 
 server.port=${PORT:${SERVER_PORT:0}}
+
